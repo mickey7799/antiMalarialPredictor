@@ -1,5 +1,5 @@
 # ********************************************************
-# *               University of Melborune                *
+# *               University of Melbourne                *
 # *   ----------------------------------------------     *
 # * Yoochan Myung - ymyung@student.unimelb.edu.au        *
 # * Last modification :: 06/09/2019                      *
