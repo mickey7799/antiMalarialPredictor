@@ -13,6 +13,8 @@ Use computational approaches to predict the anti- malarial pharmacodynamic prope
 - Graph-based signature: 425
 
 ## Machine Learning
-Used different graph-based signature combinations to generate our features and select the one that can best describing molecule pattern for anti-malarial drugs
+Used different *graph-based signature* combinations to generate our features and select the one that can best describing molecule pattern for anti-malarial drugs
 
-Random Forest with cut-off 10 and cut-off step 1 graph- based signature combination yielded the best performance for both the performance for 10-fold cross validation and blind test.
+Random Forest with cut-off 10 and cut-off step 1 graph-based signature combination yielded the best performance for both the performance for 10-fold cross validation and blind test.
+
+*graph-based signature*: The number of atoms categorized by pharmacophore type within a certain distance with different increasing steps in the molecular graph
